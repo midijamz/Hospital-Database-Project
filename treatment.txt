@@ -1,0 +1,28 @@
+Hunt, McVay, P, PT, 2020-08-10 17:00
+Hunt, McVay, M, Ibuprofen,2020-08-11 06:00
+Henry, Belichick, P, Foot Surgery, 2020-08-25 08:00
+Henry,Carroll, M, Morphine Drip, 2020-08-25 13:00
+Henry, Carroll, M, Morphine Drip, 2020-08-26 05:30
+Murray, McVay, P, Ankle Brace, 2020-09-05 14:00
+Murray, Reid, M, Oxycodone, 2020-09-05 21:00
+Murray, Harbaugh, M, Oxycodone, 2020-09-06 09:30
+Barkley, Tomlin, P, Ankle Brace, 2020-09-08 22:00
+Barkley, Reid, M, Oxycodone, 2020-09-09 04:30
+Chubb, Belichick, P, Respirator, 2020-10-03 19:30
+Carson, Harbaugh, P, Neck Brace,2020-10-09 02:30
+Carson, Belichick, M, Morphine Drip, 2020-10-10 10:00
+Chubb, Belichick, P, Respirator, 2020-10-16 16:00
+Chubb, Reid, P, Respirator, 2020-10-17 10:37
+Kamara, Tomlin, P, Knee Brace, 2020-10-18 22:10
+Kamara, Carroll, M, Tramadol, 2020-10-19 11:00
+Hopkins, McVay, P, PT, 2020-11-08 08:30
+Hopkins, McVay, P, PT, 2020-11-10 11:00
+Hopkins, Tomlin, M, Ibuprofen, 2020-11-11 23:15
+Hopkins, Carroll, P, PT, 2020-11-16 08:17
+Barkley, Belichick, P, Ankle Cast (right), 2020-12-30 13:30
+Barkley, Harbaugh, M, Morphine Drip, 2021-01-02 11:30
+Barkley, Belichick, P, PT, 2021-01-03 07:30
+Murray, Reid, P, Concussion Protocol, 2021-01-06 03:30
+Chubb, Carroll, P, Respirator, 2021-01-04 11:30
+Chubb, McVay, P, Respirator, 2021-01-05 06:00
+Chubb, Harbaugh, M, Cough Medicine, 2021-02-01 09:30
